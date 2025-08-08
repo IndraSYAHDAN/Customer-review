@@ -15,7 +15,7 @@ By analyzing publicly available feedback, we aim to evaluate whether dining expe
 ## 📂 Dataset
 
 **Raw Dataset Source:**  
-📍 [Google Maps Reviews – NSW Restaurants](https://maps.app.goo.gl/dRyY1kmu4mx7xNct8)
+📍 [Google Maps Reviews – NSW Restaurants](https://maps.app.goo.gl/dRyY1kmu4mx7xNct8](https://maps.app.goo.gl/qYWpdBAbrvwAaHb76)
 
 The dataset was collected from Google Maps and includes:
 
@@ -71,7 +71,7 @@ AI allows scalable and objective analysis of hundreds to thousands of reviews, m
 ## 🙌 Credits
 
 - **Data Source**: Public reviews from Google Maps  
-- **Author**: [Your Name or GitHub Username]  
-- **Tools Used**: Python, Jupyter Notebook, NLTK, Scikit-learn, Matplotlib, Seaborn, etc.
+- **Author**: [IndraSYAHDAN]  
+- **Tools Used**: Python.
 
 ---
