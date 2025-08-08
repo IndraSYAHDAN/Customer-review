@@ -15,7 +15,7 @@ By analyzing publicly available feedback, we aim to evaluate whether dining expe
 ## 📂 Dataset
 
 **Raw Dataset Source:**  
-📍 [Google Maps Reviews – NSW Restaurants](https://maps.app.goo.gl/dRyY1kmu4mx7xNct8](https://maps.app.goo.gl/qYWpdBAbrvwAaHb76)
+📍 [Google Maps Reviews – NSW Restaurants]([https://maps.app.goo.gl/qYWpdBAbrvwAaHb76])
 
 The dataset was collected from Google Maps and includes:
 
