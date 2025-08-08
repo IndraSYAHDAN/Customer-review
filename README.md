@@ -1,23 +1,23 @@
-# 🧾 Customer Reviews: Universal Restaurant of Melbourne
+# 🧾 Customer Reviews: Restaurants in New South Wales, Australia
 
 ## 📌 Project Overview
 
-This project analyzes **customer reviews** from the Universal Restaurant located in **Melbourne, Australia**. The objective is to classify each review into **positive**, **negative**, or **mixed**, and extract valuable insights related to:
+This project analyzes **customer reviews** from various restaurants located in **New South Wales, Australia**. The main objective is to classify reviews into **positive**, **negative**, or **mixed**, and extract key insights about:
 
 - 🔹 Food Quality  
 - 🔹 Customer Service  
 - 🔹 Atmosphere and Ambience  
 
-By analyzing public sentiment, we aim to validate whether the restaurant truly delivers a high-quality experience to its customers.
+By analyzing publicly available feedback, we aim to evaluate whether dining experiences in the region truly meet customer expectations.
 
 ---
 
 ## 📂 Dataset
 
 **Raw Dataset Source:**  
-📍 [Google Maps Reviews – Universal Restaurant Melbourne](https://maps.app.goo.gl/dRyY1kmu4mx7xNct8)
+📍 [Google Maps Reviews – NSW Restaurants](https://maps.app.goo.gl/dRyY1kmu4mx7xNct8)
 
-The dataset was collected from Google Maps and contains:
+The dataset was collected from Google Maps and includes:
 
 - Review Text
 - Star Rating
@@ -28,43 +28,43 @@ The dataset was collected from Google Maps and contains:
 
 ## 🔍 Insight & Findings
 
-Through text analysis and sentiment classification, this project uncovers:
+Through sentiment analysis and textual exploration, we discovered:
 
-- ✅ Key strengths highlighted in **positive reviews** such as flavorful dishes, excellent service, and cozy ambiance.
-- ❌ Recurring concerns from **negative reviews** including slow wait times and inconsistent food quality.
-- ⚖️ **Mixed reviews** that acknowledge both good and bad experiences in one review.
+- ✅ **Positive reviews** often praise the food’s flavor, portion size, ambiance, and friendly staff.
+- ❌ **Negative reviews** frequently mention long wait times, rude service, and inconsistent food quality.
+- ⚖️ **Mixed reviews** highlight both positive aspects (e.g., great food) and negatives (e.g., expensive prices or slow service) within the same review.
 
-These findings are valuable in determining whether the restaurant's branding aligns with the actual customer experience.
+These insights help determine whether customer experiences align with restaurant reputations across New South Wales.
 
 ---
 
 ## 🤖 AI Support Explanation
 
-Artificial Intelligence supports this project through various Natural Language Processing (NLP) techniques:
+Artificial Intelligence supports this project using various Natural Language Processing (NLP) techniques:
 
 - **Text Preprocessing**: Cleaning, stopword removal, tokenization, and lemmatization.
-- **Sentiment Analysis**: Automatic classification of sentiment using models such as VADER, TextBlob, or fine-tuned transformer-based models.
-- **Topic Modeling**: Unsupervised learning (e.g., Latent Dirichlet Allocation) is used to discover dominant topics in the reviews.
-- **Visualization Tools**: Word clouds, sentiment histograms, and temporal trends to enhance interpretability.
+- **Sentiment Analysis**: Automatic classification of sentiment using tools like VADER, TextBlob, or transformer-based models.
+- **Topic Modeling**: Latent Dirichlet Allocation (LDA) is applied to identify recurring themes across reviews.
+- **Visualization Tools**: Word clouds, pie charts, and trend lines are used to visualize patterns and sentiment distribution.
 
-AI enables efficient and objective review processing, making it possible to derive insights from large volumes of unstructured data.
+AI allows scalable and objective analysis of hundreds to thousands of reviews, making data-driven decisions more reliable.
 
 ---
 
 ## 🛠️ How to Use
 
 1. Clone this repository
-2. Open the `customer_review_universal_retaurant.ipynb` notebook
-3. Ensure required packages are installed (refer to `requirements.txt` if provided)
-4. Run the notebook to perform sentiment analysis and view visualizations
+2. Open the `customer_review_[what_restaurant}.ipynb` notebook
+3. Install required packages (see `requirements.txt`)
+4. Run all cells to replicate the sentiment analysis and insights
 
 ---
 
 ## 📈 Future Work
 
-- Integration of advanced deep learning models (e.g., BERT-based sentiment classifiers)
-- Inclusion of up-to-date reviews for trend tracking
-- Comparative sentiment analysis with competing restaurants in Melbourne
+- Upgrade to deep learning models like BERT or RoBERTa for improved accuracy
+- Expand dataset to cover more restaurants in regional NSW
+- Compare sentiment trends between urban (Sydney) vs regional restaurants
 
 ---
 
